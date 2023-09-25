@@ -1,10 +1,11 @@
-
+import foto from "../../assets/images/foto.jpg"
 
 function Photo() {
     return (
         <img
-            className="photo-perfil"
-            src="../../../public/foto.jpg">
+            className="profile-photo"
+            src={foto}
+            alt="Camilo Carvajal">
         </img>
     )
 }
