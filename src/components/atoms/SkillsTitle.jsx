@@ -1,7 +1,9 @@
-function image() {
+function SkillsTitle() {
     return (
-        <img
-        src="">
-        </img>
+        <h4>
+            Habilidades
+        </h4>
     )
 }
+
+export default LanguagesTitle;
