@@ -1,5 +1,3 @@
-import ExperienceTitle from "../atoms/ExperienceTitle";
-
 function ExperienceInfo() {
     return (
         <div>

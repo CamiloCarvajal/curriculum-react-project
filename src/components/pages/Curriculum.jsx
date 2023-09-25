@@ -1,3 +1,5 @@
+import "../../styles/Head.css"
+
 import PersonalInfo from "../template/PersonalInfo"
 import ProfesionalInfo from "../template/ProfesionalInfo"
 
