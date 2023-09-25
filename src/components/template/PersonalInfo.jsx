@@ -1,9 +1,11 @@
 import Skills from "../organisms/Skills";
+import Languages from "../organisms/Languages";
 
-function PersonalInfo(params) {
+function PersonalInfo() {
     return (
         <div>
             <Skills/>
+            <Languages/>
         </div>
     )
 }

@@ -1,7 +1,7 @@
 function LanguagesTitle() {
     return (
         <h4>
-            Experiencia
+            Idiomas
         </h4>
     )
 }
