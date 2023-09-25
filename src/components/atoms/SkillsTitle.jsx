@@ -6,4 +6,4 @@ function SkillsTitle() {
     )
 }
 
-export default LanguagesTitle;
+export default SkillsTitle;

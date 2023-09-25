@@ -1,10 +1,11 @@
-import Education from "../organisms/Education";
+import Skills from "../organisms/Skills";
 
 function PersonalInfo(params) {
     return (
-        <div
-            className="personal-information">
-            <Education />
+        <div>
+            <Skills/>
         </div>
     )
 }
+
+export default PersonalInfo;
