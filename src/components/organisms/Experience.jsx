@@ -3,7 +3,7 @@ import ExperienceInfo from "../molecules/ExperienceInfo";
 
 function Experience() {
     return (
-        <div className="experience-molecule">
+        <div className="experience-organism">
             <ExperienceTitle />
             <ExperienceInfo />
         </div>
