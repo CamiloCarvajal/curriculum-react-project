@@ -5,10 +5,9 @@ function ProfesionalInfo(params) {
     return (
         <div
             className="personal-information">
-            <Education />
-            <br/>
-            <hr/>
             <Experience />
+            <br/>
+            <Education />
         </div>
     )
 }
