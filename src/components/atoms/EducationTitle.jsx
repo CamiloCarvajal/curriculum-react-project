@@ -1,7 +1,7 @@
 function EducationTitle() {
     return (
         <h3>
-            Educación
+            Formación académica
         </h3>
     )
 }
